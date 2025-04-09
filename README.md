@@ -1,7 +1,3 @@
-Ah, gotcha! Here's the entire content **as it should appear inside the `README.md` file** — no extras, just ready to paste into your repo:
-
----
-
 ```markdown
 # AssetAlign Mobile App
 
